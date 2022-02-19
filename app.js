@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/MEDI/sw.js';
+var swLocation = '/MediApp/sw.js';
 
 
 if (navigator.serviceWorker){
